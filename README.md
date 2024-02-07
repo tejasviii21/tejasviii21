@@ -41,14 +41,17 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Languages and Tools:
 
 <p align="left">
-	<a href="https://kotlinlang.org/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60" height="60" />          
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=javascript" alt="kotlin" width="60" height="60" />          
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://developer.android.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="60" height="60" />          
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=github" alt="android" width="60" height="60" />          
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://developer.android.com/studio" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="studio" width="60" height="60" />          
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=react" alt="studio" width="60" height="60" />          
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=bootstrap" alt="studio" width="60" height="60" />          
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.mysql.com/" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />                   
@@ -59,8 +62,8 @@
 	<a href="https://www.w3schools.com/cpp/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://ubuntu.com/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60" height="60" />
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=mui" width="60" height="60" />
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://visualstudio.microsoft.com/" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60" />
@@ -71,20 +74,26 @@
 	<a href="https://reactnative.dev/" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" />
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://dart.dev" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60" />
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=html" alt="dart" width="60" height="60" />
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://firebase.google.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://flutter.dev" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/>
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=css" alt="flutter" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+	<a href="" target="_blank">
+		<img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.python.org" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.python.org" target="_blank">
+		<img src="https://skillicons.dev/icons?i=tailwind" alt="python" width="60" height="60"/>
+	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.python.org" target="_blank">
+		<img src="https://skillicons.dev/icons?i=mongodb" alt="python" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
