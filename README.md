@@ -103,16 +103,16 @@
 ### <img src="https://media.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif" width="60">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Problem Solving website progress:
 
 <p align="left">
-	<a href="https://leetcode.com/xx/" target="_blank">
+	<a href="https://leetcode.com/tejasvi_1421/" target="_blank">
 		<img src="https://smlpoints.com/wp-content/uploads/LeetCode_logo.png" alt="c" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://codeforces.com/profile/xx" target="_blank">
+	<a href="https://codeforces.com/profile/" target="_blank">
 		<img src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1"  width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://auth.geeksforgeeks.org/user/xx/practice" target="_blank">
+	<a href="https://auth.geeksforgeeks.org/user//practice" target="_blank">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://www.codechef.com/users/xx" target="_blank">
+	<a href="https://www.codechef.com/users/" target="_blank">
 		<img src="https://aditya-25-02.github.io/AdityaResume/Codechef.png" width="60" height="60"/>
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
