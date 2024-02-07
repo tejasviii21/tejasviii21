@@ -123,5 +123,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tejasviii21/count.svg" />
 </p>
-
-![Snake animation](https://github.com/tejasviii21/tejasviii21/blob/output/github-contribution-grid-snake.svg)
