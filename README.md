@@ -28,7 +28,6 @@
 ### 👨‍💻Connect with me
 
 [<img align="left" alt="f | LinkedIn" width="35px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png" />][linkedin]
-[<img align="left" alt="f | Instagram" width="35px" src="https://www.pngitem.com/pimgs/m/461-4618525_ig-small-instagram-logo-2019-hd-png-download.png" />][instagram]
 <br />
 <br />
 
@@ -109,7 +108,6 @@
 	</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[instagram]: https://www.instagram.com/_tejasvijatic21/
 [linkedin]: https://www.linkedin.com/in/tejasvi-jatic-3565b922a/
 
 <p align="center"> 
