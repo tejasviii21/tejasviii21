@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *tejasvi210303@gmail.com*
 
-- 📄 Know about other detail in my *[Resume](https://bit.ly/48hMZce)*
+- 📄 Know about other detail in my *[Resume](https://drive.google.com/file/d/1hIyZoJh6ugEvheyR2SBloRh2ZguAncCV/view?usp=drive_link)*
 
 
 ### 👦Stats:
